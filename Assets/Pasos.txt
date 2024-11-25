@@ -1,0 +1,24 @@
+-Crear un Grid Rectangular para montar el escenario
+
+
+-Crear una cinemachine virtuale camera
+-Crear una camara confiner
+-Meter cinemachine Confiner 2d en virtual camera y dentro meter el camara confiner
+
+
+-Configurar animaciones de sprites
+-Crear parametros pertinentes con cada animación
+-En la intersección quitar el has exit time y poner offset y duration en 0
+-Crear el script y tocar todo lo pertinente para que funcione(Si hay duda de los paramentros, se pueden mirar en el script)
+
+
+-Creación de escenas
+-Crearemos 2/3 escenas in game. 
+-La primera sera la que guardara las estrellas y las monedas. 
+-La segunda sera la de victoria
+-La possible tercera sera la de pausa.
+-Han de ir todas interconectadas
+-Hay que meterlas en el build settings
+
+
+-Poner Monedas y Estrellas por el escenario y que la ultima estrella salte la victoria.
